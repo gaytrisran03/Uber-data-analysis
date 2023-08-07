@@ -10,6 +10,7 @@ Uber has transformed the way people commute, and its massive volume of ride data
 
 ## Key Features
  -------------------------
+<img width="1440" alt="Screenshot 2023-08-06 at 1 04 17 PM" src="https://github.com/gaytrisran03/Uber-data-analysis/assets/78645392/469b99f1-1b6f-4ab9-86ec-78b2c233e58e">
 
 - **R Notebook Implementation:** This analysis is presented as an R notebook, providing an interactive and easily reproducible environment. The R notebook format allows you to understand each step thoroughly and modify the code to suit your specific needs.
 

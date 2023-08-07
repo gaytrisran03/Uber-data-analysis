@@ -46,3 +46,11 @@ install.packages(c("tidyverse", "lubridate", "ggplot2", "leaflet", "plotly", "gg
 Gaytri Sran
 
  - LinkedIn - [@GaytriSran](https://www.linkedin.com/in/gaytri-sran-gs14/)
+   
+We encourage contributions from the community to enhance this analysis further. If you spot any issues or have ideas for improvement, please submit a pull request or open an issue in the GitHub repository.
+
+## License
+
+This project is licensed under the MIT License. You can find the license details in the `LICENSE` file.
+
+Let's embark on this data-driven journey through Uber's world and gain valuable insights together! Happy analyzing!
